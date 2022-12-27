@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://archives.bulbagarden.net/media/upload/0/0d/025Pikachu.png",
+      "id": 9,
+      "likes": 14
+    },
+    {
+      "name": "Catan",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_4a6c6a4b-4279-4520-9c7d-2e5036b525a4?wid=488&hei=488&fmt=pjpeg",
+      "likes": 7,
+      "id": 10
+    },
+    {
+      "name": "Lego Friends",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a391136f-d40e-412d-9d3f-fec11518c041.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "likes": 9,
+      "id": 11
     }
   ]
 }
